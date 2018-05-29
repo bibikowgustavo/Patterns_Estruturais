@@ -1,0 +1,22 @@
+package Ex9_1;
+
+public class Moedas {
+	private Moedas moeda;
+	public Moedas() {
+		
+		
+	}
+	public Moedas getMoeda() {
+		return moeda;
+	}
+	public void setMoeda(Moedas moeda) {
+		this.moeda = moeda;
+	}
+
+}
+
+
+
+
+	//Gustavo Bibikow RA: 816118817
+
